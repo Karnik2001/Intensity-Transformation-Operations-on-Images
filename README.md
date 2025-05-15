@@ -43,5 +43,6 @@ Each method is demonstrated on sample grayscale images, and the effects are anal
 
 https://www.geeksforgeeks.org/python-intensity-transformation-operations-on-images/
 
+https://medium.com/@rupai.koushiki01/image-processing-basics-using-opencv-python-92caef2f752b
 
 https://colab.research.google.com/github/garg-aayush/OpenCV-DIP-Tutorials/blob/main/colab-notebooks/02_image_resizing.ipynb#scrollTo=r-rlSjNN92v-
